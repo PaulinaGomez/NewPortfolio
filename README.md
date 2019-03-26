@@ -2,4 +2,4 @@
 
     My Second Bootstrap Porfolio
 
-![portfolio](/secondpf.png)
+![portfolio](/secondpf.jpg)
